@@ -1,0 +1,25 @@
+{"items":[
+    {"id": 1 , "full_name":"Bruce Willis", "age": 60, "occupation": "Actor", "net_worth": 50000000, "image":"bruce_willis"},
+    
+    {"id": 2 , "full_name":"Sarah Shahi", "age": 35, "occupation": "Actress", "net_worth": 11200000, "image":"sarah_shahi"},
+    
+    {"id": 3 , "full_name":"Roger Moore", "age": 88, "occupation": "Actor", "net_worth": 34300000, "image":"roger_moore"},
+    
+    {"id": 4 , "full_name":"Sienna Miller", "age": 33, "occupation": "Actress", "net_worth": 46500000, "image":"sienna_miller"},
+    
+    {"id": 5 , "full_name":"Mark Wahlberg", "age": 44, "occupation": "Actor", "net_worth": 62400000, "image":"mark_wahlberg"},
+    
+    {"id": 6 , "full_name":"Claire Danes", "age": 36, "occupation": "Actress", "net_worth": 75400000, "image":"claire_danes"},
+    
+    {"id": 7 , "full_name":"Wesley Snipes", "age": 53, "occupation": "Actor", "net_worth": 86600000, "image":"wesley_snipes"},
+    
+    {"id": 8 , "full_name":"Megan Fox", "age": 29, "occupation": "Actress", "net_worth": 94300000, "image":"megan_fox"},
+    
+    {"id": 9 , "full_name":"Mila Kunis", "age": 32, "occupation": "Actress", "net_worth": 13400000, "image":"mila_kunis"},
+    
+    {"id": 10 , "full_name":"Hugh Laurie", "age": 56, "occupation": "Actor", "net_worth": 15000000, "image":"hugh_laurie"},
+    
+    {"id": 11 , "full_name":"Daniel Craig", "age": 47, "occupation": "Actor", "net_worth": 26374000, "image":"daniel_craig"},
+    
+    {"id": 12 , "full_name":"Rihanna", "age": 27, "occupation": "Actor", "net_worth": 35260000, "image":"rihanna"}
+    ]}
